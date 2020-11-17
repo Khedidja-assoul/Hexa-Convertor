@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Tp_01_par_Assoul_Khedidja'
